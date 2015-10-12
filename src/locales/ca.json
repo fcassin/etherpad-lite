@@ -5,7 +5,9 @@
 			"Pginer",
 			"Pitort",
 			"Toniher",
-			"Macofe"
+			"Macofe",
+			"Joan manel",
+			"Eduardo Martinez"
 		]
 	},
 	"index.newPad": "Nou pad",
@@ -37,6 +39,7 @@
 	"pad.settings.padSettings": "Paràmetres del pad",
 	"pad.settings.myView": "La meva vista",
 	"pad.settings.stickychat": "Xateja sempre a la pantalla",
+	"pad.settings.chatandusers": "Mostra el xat i els usuaris",
 	"pad.settings.colorcheck": "Colors d'autoria",
 	"pad.settings.linenocheck": "Números de línia",
 	"pad.settings.rtlcheck": "Llegir el contingut de dreta a esquerra?",
@@ -95,6 +98,9 @@
 	"timeslider.exportCurrent": "Exporta la versió actual com a:",
 	"timeslider.version": "Versió {{version}}",
 	"timeslider.saved": "Desat {{month}} {{day}}, {{year}}",
+	"timeslider.playPause": "Reproducció / Pausa els continguts del pad",
+	"timeslider.backRevision": "Tornar una revisió enrera en aquest Pad",
+	"timeslider.forwardRevision": "Anar una revisió endavant en aquest Pad",
 	"timeslider.dateformat": "{{month}}/{{day}}/{{year}} {{hours}}:{{minutes}}:{{seconds}}",
 	"timeslider.month.january": "Gener",
 	"timeslider.month.february": "Febrer",
@@ -110,6 +116,7 @@
 	"timeslider.month.december": "Desembre",
 	"timeslider.unnamedauthors": "{{num}} {[plural(num) one: autor, other: autors ]} sense nom",
 	"pad.savedrevs.marked": "Aquesta revisió està marcada ara com a revisió desada",
+	"pad.savedrevs.timeslider": "Les revisions que s'han desat les podeu veure amb la línia de temps",
 	"pad.userlist.entername": "Introduïu el vostre nom",
 	"pad.userlist.unnamed": "sense nom",
 	"pad.userlist.guest": "Convidat",
