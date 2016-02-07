@@ -16,8 +16,8 @@
 # ETHER_REPO:
 # - Create a new release on github
 
-ETHER_REPO="https://github.com/ether/etherpad-lite.git"
-ETHER_WEB_REPO="https://github.com/ether/ether.github.com.git"
+ETHER_REPO="https://github.com/fcassin/etherpad-lite.git"
+ETHER_WEB_REPO="https://github.com/fcassin/ether.github.com.git"
 TMP_DIR="/tmp/"
 
 echo "WARNING: You can only run this script if your github api token is allowed to create and merge branches on $ETHER_REPO and $ETHER_WEB_REPO."
